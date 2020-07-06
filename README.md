@@ -1,2 +1,2 @@
 # Applied-Algorithms
- Applied Algorithm Assignments
+ Applied Algorithm Programming Assignments
